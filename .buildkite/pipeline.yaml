@@ -1,0 +1,3 @@
+steps:
+  - label: ":memo: Example Annotations"
+    command: ".buildkite/scripts/annotations.sh"
